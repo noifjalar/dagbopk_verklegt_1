@@ -4,3 +4,7 @@ Markmið dagsins er að klára að gera kröfulista og notendahópagreiningu. Kr
  
 2/2
 Við kláruðum verkefni dagsins eftir miklar rökræður og umræður. Allir sinntu sýnum verkefnum eftir áætlun morgunsins, auk þess að taka stöðuna á framvindu verkefnisins reglulega yfir daginn þannig að við séum öll á sömu blaðsíðu með heildarmyndina. 
+
+26. nóv:
+1/2
+Markmið dagsins er að spurja út í hvernig dagbókinni er pushað inná github. Einnig að klára gera notkunartilvikin, laga notendagreiningu miðað við það sem var rætt í fyrirlestrinum sem allir mættu á. Lesa yfir það sem við gerðum í gær og laga ef við höfum einhverja gagnrýni. Við skiptum notkunartilvikum á milli okkar, þar sem þau eru mörg þá mun taka stóran hluta dagsins að gera þau öll.
