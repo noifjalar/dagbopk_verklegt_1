@@ -22,3 +22,6 @@ Markmiðum dagsins var náð og rúmlega það. Við kláruðum að gera klasari
 28. nóv:
 1/2
 Markmið dagsins er að klára stöðuritin sem eru nánast tilbúin, því næst ætlum við öll saman að gera happy path svo að allir séu á sömu blaðsíðu.
+
+2/2
+Gekk vel að fylgja áætlun og er um það bil allt komið fyrir skil á föstudaginn, bara létt yfirferð á morgun og skila síðan.
