@@ -18,3 +18,7 @@ Markmið dagsins er að klára gera klasaritin og vera byrjuð á stöðuritunum
 
 2/2
 Markmiðum dagsins var náð og rúmlega það. Við kláruðum að gera klasarit og erum vel komin á leið með stöðuritin. Ætlum að klára þau í fyrramálið áður en við skoðum að setja okkur næstu verkefni.
+
+28. nóv:
+1/2
+Markmið dagsins er að klára stöðuritin sem eru nánast tilbúin, því næst ætlum við öll saman að gera happy path svo að allir séu á sömu blaðsíðu.
