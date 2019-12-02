@@ -32,3 +32,7 @@ Létt yfirferð á verkefninu og síðan skil. Á allt að vera um það bil til
 
 2/2
 Allir lásu yfir verkefnið, lagfærðu það sem þurfti og voru allir ánægðir með útkomuna á þessu stigi. Verkefni skilað.
+
+2. des:
+1/2
+Mætt var á fyrirlesturinn sem var kl 12 og nú þurfum við að skipta niður verkum. Byrjum á að bæta öllum csv file'unum sem við þurfum. Fyrsta daginn ætlum við aðeins að sjá hvernig gengur og prófa okkur áfram í því hvernig er best að vinna verkefnið, hvort það sé í litlum hópum eða hver og einn fái verkefni.
