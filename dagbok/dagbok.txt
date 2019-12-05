@@ -48,4 +48,12 @@ Markmið dagsins er setja alla klasana upp og vera komin lengra en við vorum ko
 Gekk ágætlega að setja upp klasana en eru ekki búnir, þurfum að halda áfram með þá á morgun.
 
 4. des:
+1/2
 Markmið dagsins er að halda áfram með klasana og er nokkuð raunhæft að vera komin allavega langt með þá í lok dags.
+
+2/2
+Eftir langt kvöld þá vorum við farin að skilja meira hvernig verkefnið ætti í raun að vera. Okkur miðaði aðeins áfram í verkefninu sjálfu einnig, og náðum að skrifa inn í file nýjan starfsmann.
+
+5. des:
+1/2
+Markmið dagsins er að setja upp allt API dæmið, þannig að þeir tali allir saman og hægt sé að senda nýjan kóða á milli í kerfinu á mikillar fyrirhafnar
