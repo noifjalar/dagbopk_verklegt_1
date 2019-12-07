@@ -57,3 +57,7 @@ Eftir langt kvöld þá vorum við farin að skilja meira hvernig verkefnið æt
 5. des:
 1/2
 Markmið dagsins er að setja upp allt API dæmið, þannig að þeir tali allir saman og hægt sé að senda nýjan kóða á milli í kerfinu á mikillar fyrirhafnar
+
+6. des:
+1/2
+Mikið af flækjum eru komnar upp og verkefninu hefur um það bil miðað aftur síðustu daga fyrir utan uppsetningu á skjölunum aðeins. Markmið dagsins er að leysa úr þessum flækjum og að það sé hægt að vinna almennilega að kröfulistanum um helgina.
