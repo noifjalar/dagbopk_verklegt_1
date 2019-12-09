@@ -61,3 +61,10 @@ Markmið dagsins er að setja upp allt API dæmið, þannig að þeir tali allir
 6. des:
 1/2
 Mikið af flækjum eru komnar upp og verkefninu hefur um það bil miðað aftur síðustu daga fyrir utan uppsetningu á skjölunum aðeins. Markmið dagsins er að leysa úr þessum flækjum og að það sé hægt að vinna almennilega að kröfulistanum um helgina.
+
+2/2
+Eftir gríðarlega langan dag og mikla vinnu þá náði að leysa úr öllum flækjum í verkefninu okkar og laga alla error kóðana sem komu alltaf upp þegar við reyndum að keyra forritið okkar. Síðustu tímum dagsins 
+
+7. des
+1/1
+Heimavinna, heimavinna, heimavinna. (Uppí skóla samt)
