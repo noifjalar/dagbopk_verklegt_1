@@ -86,3 +86,6 @@ Löng nótt á enda, pössuðum uppá skólann með öryggisverðinum í alla n�
 11. des
 1/2
 Planið að klára voyages hlutan (að setja staff á voyages) í dag, einnig að undirbúa videoið aðeins með því að vera viss um að það virki að taka upp hjá okkur.
+
+2/2
+Create voyages er klárt og öll virkni er um það bil komin. Þurfum bara að setja alla filtera á núna í LL.
